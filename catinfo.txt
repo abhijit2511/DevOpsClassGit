@@ -3,3 +3,4 @@ cats can hide
 cats can eat
 yet more cat info
 This time really add a line into master branch
+yet another line of cats!
